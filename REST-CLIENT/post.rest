@@ -1,0 +1,9 @@
+POST  http://localhost:8080/api/produits
+Content-Type: application/json
+
+{
+  "nom": "Car",
+  "description": "Bro, the best 'ballon' you've ever seen in your life",
+  "prix" : 500,
+  "dispo": 1
+}
